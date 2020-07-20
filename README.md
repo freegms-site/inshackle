@@ -1,2 +1,0 @@
-# inshackle
-Instagram follower BOT 
